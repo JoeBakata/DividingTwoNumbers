@@ -1,0 +1,16 @@
+D:\Users\Joseph\source\repos\DividingTwoNumbers\bin\Debug\net5.0\DividingTwoNumbers.exe
+D:\Users\Joseph\source\repos\DividingTwoNumbers\bin\Debug\net5.0\DividingTwoNumbers.deps.json
+D:\Users\Joseph\source\repos\DividingTwoNumbers\bin\Debug\net5.0\DividingTwoNumbers.runtimeconfig.json
+D:\Users\Joseph\source\repos\DividingTwoNumbers\bin\Debug\net5.0\DividingTwoNumbers.runtimeconfig.dev.json
+D:\Users\Joseph\source\repos\DividingTwoNumbers\bin\Debug\net5.0\DividingTwoNumbers.dll
+D:\Users\Joseph\source\repos\DividingTwoNumbers\bin\Debug\net5.0\ref\DividingTwoNumbers.dll
+D:\Users\Joseph\source\repos\DividingTwoNumbers\bin\Debug\net5.0\DividingTwoNumbers.pdb
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\DividingTwoNumbers.csproj.AssemblyReference.cache
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\DividingTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\DividingTwoNumbers.AssemblyInfoInputs.cache
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\DividingTwoNumbers.AssemblyInfo.cs
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\DividingTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\DividingTwoNumbers.dll
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\ref\DividingTwoNumbers.dll
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\DividingTwoNumbers.pdb
+D:\Users\Joseph\source\repos\DividingTwoNumbers\obj\Debug\net5.0\DividingTwoNumbers.genruntimeconfig.cache
